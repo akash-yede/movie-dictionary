@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie-dictionary/static/css/main.74e56703.chunk.css",
-    "main.js": "/movie-dictionary/static/js/main.603e7191.chunk.js",
-    "main.js.map": "/movie-dictionary/static/js/main.603e7191.chunk.js.map",
+    "main.js": "/movie-dictionary/static/js/main.f6ff75a1.chunk.js",
+    "main.js.map": "/movie-dictionary/static/js/main.f6ff75a1.chunk.js.map",
     "runtime-main.js": "/movie-dictionary/static/js/runtime-main.35a2964e.js",
     "runtime-main.js.map": "/movie-dictionary/static/js/runtime-main.35a2964e.js.map",
     "static/js/2.529d4730.chunk.js": "/movie-dictionary/static/js/2.529d4730.chunk.js",
     "static/js/2.529d4730.chunk.js.map": "/movie-dictionary/static/js/2.529d4730.chunk.js.map",
     "index.html": "/movie-dictionary/index.html",
-    "precache-manifest.900ebaae59e6098948e40920e601d7c0.js": "/movie-dictionary/precache-manifest.900ebaae59e6098948e40920e601d7c0.js",
+    "precache-manifest.780e7479b432708884625b188bdcc059.js": "/movie-dictionary/precache-manifest.780e7479b432708884625b188bdcc059.js",
     "service-worker.js": "/movie-dictionary/service-worker.js",
     "static/css/main.74e56703.chunk.css.map": "/movie-dictionary/static/css/main.74e56703.chunk.css.map",
     "static/js/2.529d4730.chunk.js.LICENSE.txt": "/movie-dictionary/static/js/2.529d4730.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.35a2964e.js",
     "static/js/2.529d4730.chunk.js",
     "static/css/main.74e56703.chunk.css",
-    "static/js/main.603e7191.chunk.js"
+    "static/js/main.f6ff75a1.chunk.js"
   ]
 }
