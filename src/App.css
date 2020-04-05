@@ -1,0 +1,69 @@
+#movies img,
+#movie img {
+    width:100%;
+}
+.app-dark {
+    background-color: #333333;
+}
+.brand-text {
+    font-size:2rem;
+    color: #b7d3e9!important;
+    font-stretch: expanded;
+    text-decoration: overline!important;
+    text-decoration-color: #f26722!important;
+    font-family: fantasy;
+}
+.btn-search {
+    background-color:#118654;
+    padding: 1px;
+    height: 50px;
+    width: 100px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    border-color: #118654;
+}
+.btn-primary {
+    background-color:#118654;
+    border-color: #118654;
+}
+.jb-style {
+    background-color: #b7d3e9;
+}
+#react-logo {
+    color: #b7d3e9;
+}
+#imdb-logo {
+    color: #f5de50;
+}
+.footer {
+    padding: 10px;
+}
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+@media(min-width: 960 px) {
+    #movies .col-md-3 .well {
+        height: 390px;
+    }
+
+    #movies .col-md-3 img {
+        height: 240 px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .brand-text {
+        font-size:1.5rem;
+    }
+    .d-inline-block {
+        display: contents;
+        font-size: xx-small;
+    }
+  }
