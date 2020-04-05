@@ -16,7 +16,7 @@ export class SearchForm extends Component {
 
   render() {
     return (
-      <div className="jumbotron jumbotron-fluid jb-style mt-5 text-center">
+      <div className="jumbotron jumbotron-fluid jb-style mt-5 mb-5 text-center">
         <div className="container">
           <h1 className="display-4 mb-3">
             <i className="fa fa-search" /> Search the Dictionary for Movies and TV series . .
