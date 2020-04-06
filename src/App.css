@@ -73,7 +73,7 @@ html,body
 @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) { 
     /* For safari browsers */
     .brand-text {
-        font-size:1.5rem;
+        font-size:1rem;
     }
     .d-inline-block {
         display: contents;
